@@ -5,7 +5,7 @@ A simple Java-based console calculator that performs basic operations: addition,
 
 ## 💻 How to Run
 
-1. Compile:
+1. Compile :
 javac Calculator.java
 2. Run & Compile :
 java Calculator
